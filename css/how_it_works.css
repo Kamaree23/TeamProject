@@ -62,3 +62,8 @@ body{
     font-size: 3rem;
     padding-top: 2rem;
 }
+
+.img-list{
+    display: flex;
+    flex-direction: row;
+}
