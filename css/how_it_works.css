@@ -67,3 +67,66 @@ body{
     display: flex;
     flex-direction: row;
 }
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+  }
+
+  .chat-button {
+    margin-left: 90px;
+    padding: 15px;
+    width:250px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+  
+  }
+  
+  #chat-text {
+    color:  rgb(50, 50, 255);
+    font-size: 25px;
+  }
+  
+  #chat {
+    margin-left: 30px;
+  }
+  
+  .get-started-button {
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: #7ed122;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 25px;
+    color:white;
+    font-weight:600;
+  
+  }
+  
+  #started-text {
+    margin-right: 50px;
+  }
+  
+  .fa-square-check {
+     color: #0850f8;
+     margin-right: 165px;
+  }
+
+  .fa-signal {
+    color: #0850f8;
+  }
+
+  .fa-calendar-check {
+    
+    color: #0850f8;
+}
