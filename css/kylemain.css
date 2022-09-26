@@ -1,0 +1,103 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+
+
+.row {
+    display: flex;
+}
+  
+  
+.column {
+    flex: 50%;
+    padding: 10px;
+    height: 730px;
+}
+
+
+h1{
+    padding-top: 100px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+
+p{
+    display: flex;
+    text-align: center;
+    margin-right: 200px;
+}
+
+h5{
+    color: white;
+    margin-right: 200px;
+    text-align: center;
+    text-decoration-skip: 10px;
+    position: relative;
+    top: 100px;
+}
+
+
+.button{
+    background-color: #0850F8;
+    color: white;
+    border: 2px solid white;
+    margin-top: 10px;
+    display: flex;
+    border-radius: 50px;
+    font-size: 18px;
+    width: 150px;
+    padding-left: 35px;
+    position: relative;
+    left: 200px;
+    top: 115px;
+}
+
+
+.container{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+    position: relative;
+    top: 150px;
+}
+
+
+.form-control{
+    margin-top: 60px;
+    border-radius: 50px;
+}
+
+
+.input-group-prepend{
+    margin-top: 60px;
+}
+
+
+.button-one{
+    background-color: #0850F8;
+    color: white;
+    margin-top: 60px;
+    border-radius: 50px;
+    font-size: 18px;
+    width: 150px;
+    margin-left: 250px;
+}
+
+
+p{
+    font-size: 12px;
+    margin-left: 245px;
+}
+
+
+.container-two{
+    margin-left: 282px;
+}
+
+.snbttn{
+    width: 11rem;
+    height: 3rem;
+}
