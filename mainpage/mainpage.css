@@ -1,0 +1,183 @@
+
+.container-1 {
+    margin-top:100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    justify-items: center;
+ 
+}
+
+
+.c1-item2{
+    margin-top: 30px;
+}
+.c1-item3{
+    margin-top: 30px;
+}
+.c1-item4{
+    margin-top: 30px;
+}
+
+.c1-item5{
+    margin-top: 30px ;
+}
+.c1-item6 {
+
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    margin: 30px;
+}
+
+.container-2 {
+    margin-top:100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-content: center;
+    text-align: center;
+ 
+}
+
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card {
+    margin: 150px;
+    border-radius: 20%;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.fa-dollar-sign {
+    color: black;
+    font-size: 100px;
+  
+      
+  
+}
+
+.container-4 {
+    margin-top:100px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 50px;
+    padding: 20px;
+}
+
+.card-text {
+    font-size: 30px;
+}
+
+.container-4 {
+    margin-top:600px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    justify-content: center;
+    text-align: center;
+}
+
+#payment {
+    margin-bottom: 50px;
+    
+}
+.card-text-center {
+    border-color: none;
+}
+
+.text-center {
+    justify-content: space-between;
+    display: grid;
+}
+
+
+
+
+
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 0%;
+        width: 100%;
+        text-align: center;
+        padding-top: 200px;
+        padding-bottom: 200px;
+
+      }
+
+      .chat-button {
+        margin-left: 90px;
+        padding: 15px;
+        width:250px;
+        border-radius: 10px;
+        background-color: white;
+        border: none;
+      
+      }
+      
+      #chat-text {
+        color:  rgb(50, 50, 255);
+        font-size: 25px;
+      }
+      
+      #chat {
+        margin-left: 30px;
+      }
+      
+      .get-started-button {
+        padding: 15px;
+        width: 250px;
+        border-radius: 10px;
+        background-color: #7ed122;
+        border: none;
+        margin-bottom: 30px;
+        margin-top: 15px;
+        font-size: 25px;
+        color:white;
+        font-weight:600;
+      
+      }
+      
+      #started-text {
+        margin-right: 50px;
+      }
+      
+      .fa-square-check {
+         color: #0850f8;
+         margin-right: 165px;
+      }
+
+      .fa-signal {
+        color: #0850f8;
+      }
+
+      .fa-calendar-check {
+        
+        color: #0850f8;
+    }
+
+    body {
+       
+        padding-bottom: 1000px;
+        clear: both;
+     }
